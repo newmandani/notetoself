@@ -10,7 +10,7 @@
   "dependencies": {
     "enzyme-adapter-react-16": "^1.7.1",
     "react": "^16.7.0",
-    "react-bootstrap": "^0.32.4",
+    "react-bootstrap": "^0.33.1",
     "react-dom": "^16.7.0",
     "sfcookies": "^1.0.2"
   },
